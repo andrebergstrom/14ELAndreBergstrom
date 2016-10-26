@@ -15,7 +15,7 @@ public class Bil extends Fordon {
 
     public double bransleBehov(double stracka) {
 
-        return (double)(forbrukning*stracka/10.0);
+        return (double) (forbrukning * stracka / 10.0);
     }
 
 }

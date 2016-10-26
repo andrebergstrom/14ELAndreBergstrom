@@ -13,7 +13,7 @@ public abstract class Fordon {
 
     public int nedsattPris(int rab) {
 
-        return (int)(pris*(1.0-rab/100.0));
+        return (int) (pris * (1.0 - rab / 100.0));
     }
 
 }
